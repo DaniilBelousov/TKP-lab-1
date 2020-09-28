@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chetr\\Desktop\\уник\\3курс\\ТКП\\lab-1\\lab-1.csproj": {}
+    "C:\\Users\\chetr\\Desktop\\уник\\3_курс\\ТКП\\lab-1\\lab-1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chetr\\Desktop\\уник\\3курс\\ТКП\\lab-1\\lab-1.csproj": {
+    "C:\\Users\\chetr\\Desktop\\уник\\3_курс\\ТКП\\lab-1\\lab-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chetr\\Desktop\\уник\\3курс\\ТКП\\lab-1\\lab-1.csproj",
+        "projectUniqueName": "C:\\Users\\chetr\\Desktop\\уник\\3_курс\\ТКП\\lab-1\\lab-1.csproj",
         "projectName": "lab-1",
-        "projectPath": "C:\\Users\\chetr\\Desktop\\уник\\3курс\\ТКП\\lab-1\\lab-1.csproj",
+        "projectPath": "C:\\Users\\chetr\\Desktop\\уник\\3_курс\\ТКП\\lab-1\\lab-1.csproj",
         "packagesPath": "C:\\Users\\chetr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chetr\\Desktop\\уник\\3курс\\ТКП\\lab-1\\obj\\",
+        "outputPath": "C:\\Users\\chetr\\Desktop\\уник\\3_курс\\ТКП\\lab-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chetr\\AppData\\Roaming\\NuGet\\NuGet.Config",

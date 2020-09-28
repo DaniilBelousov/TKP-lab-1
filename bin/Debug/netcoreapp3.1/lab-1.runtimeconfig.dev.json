@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\chetr\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\chetr\\.nuget\\packages"
+    ]
+  }
+}
